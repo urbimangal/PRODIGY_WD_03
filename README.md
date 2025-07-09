@@ -1,0 +1,1 @@
+A simple web-based Tic-Tac-Toe game for two players, built using HTML, CSS, and JavaScript. The game features a 3×3 grid where players take turns marking X and O. It detects wins, draws, and includes a reset button to start a new game. Clean UI and beginner-friendly code for easy learning and customization.
